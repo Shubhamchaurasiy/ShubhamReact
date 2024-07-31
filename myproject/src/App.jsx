@@ -1,13 +1,10 @@
-
+import shubham from "./Shubham"
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
-   <h1>
-    hello this is shubham application
-
-   </h1>
+  <shubham/>
   )
 }
 
